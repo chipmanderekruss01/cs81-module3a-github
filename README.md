@@ -10,4 +10,4 @@ This is my class repository for CS81 Module 3a.
 - `describeWeather(temp)` — Describes how the temperature feels
 - `addWithMessage(a, b)` — Adds two numbers and returns a nice message
 
-Created by Chip
+Created by Derek Chipman
